@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lilapinho
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning node.js
-- 💞️ I’m looking to collaborate on react js
+- 💞️ I’m looking to collaborate on react.js
 - 📫 How to reach me: ig @lilapinho // tt @pinho_lila
 
 <!---
