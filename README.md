@@ -1,6 +1,6 @@
-- 👋 Oie, eu sou a Marília Pinho xD
-- Estudante de Análise e Desenvolvimento de Sistemas
-- Trabalho com aulas de programação para crianças e adolescentes :p
+- 👋 Hi, everyone! I'm Marília Pinho xD
+- Systems analysis and development student!
+- Adobe Campaign Developer Jr at Netbiis <3
 
 <div align="center">
   <a href="https://github.com/lilapinho">
